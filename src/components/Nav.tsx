@@ -23,9 +23,9 @@ const NavWrapper = styled.nav`
              height: 24px;
          }
          &.selected{
-            color: #ff5000;
+            color: #f60;
             .icon{
-                fill: #ff5000;
+                fill: #f60;
             }
          }
         }      
