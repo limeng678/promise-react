@@ -1,7 +1,7 @@
 {
   "name": "react-book",
   "version": "0.1.0",
-  "homepage": "https://github.com/limeng678/promise-website/",
+  "homepage": "https://limeng678.github.io/promise-website/",
   "private": true,
   "dependencies": {
     "@babel/core": "7.9.0",
