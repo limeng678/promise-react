@@ -10,6 +10,7 @@ import {useRecords} from '../hooks/useRecords';
 const MyLayout = styled(Layout)`
      display: flex;
      flex-direction: column;
+     overflow: hidden;
 `
 type Category = '-'|'+'
 const defaultFormData={
